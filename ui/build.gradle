@@ -1,7 +1,7 @@
 apply plugin: 'com.android.library'
 apply plugin: 'kotlin-android'
 
-group='com.github.raulccabreu.redukt'
+group='com.github.oxeanbits.redukt'
 
 tasks.withType(Test) {
     testLogging {
