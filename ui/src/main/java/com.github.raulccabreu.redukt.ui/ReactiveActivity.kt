@@ -1,6 +1,7 @@
 package com.github.raulccabreu.redukt.ui
 
-import android.support.v7.app.AppCompatActivity
+
+import androidx.appcompat.app.AppCompatActivity
 import com.github.raulccabreu.redukt.Redukt
 import com.github.raulccabreu.redukt.states.StateListener
 
