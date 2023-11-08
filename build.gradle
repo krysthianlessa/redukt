@@ -22,7 +22,7 @@ allprojects {
     }
 }
 
-project.ext.versionName = '0.1.9-alpha'
+project.ext.versionName = '0.1.9-beta'
 
 task clean(type: Delete) {
     delete rootProject.buildDir
